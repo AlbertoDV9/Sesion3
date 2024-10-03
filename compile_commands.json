@@ -1,0 +1,53 @@
+[{
+  "file": "C:\\Users\\ALBERTO\\Desktop\\EEDD\\Sesion3\\Colas\\NodoCola.hpp",
+  "directory": "C:\\Users\\ALBERTO\\Desktop\\EEDD\\Sesion3\\Colas",
+  "command": "C:/msys64/clang64/bin/g++.exe -c C:\\Users\\ALBERTO\\Desktop\\EEDD\\Sesion3\\Colas\\NodoCola.hpp -o C:\\Users\\ALBERTO\\Desktop\\EEDD\\Sesion3\\Colas\\NodoCola.hpp.o -target x86_64-w64-windows-gnu -IC:\\msys64\\clang64\\include\\c++\\v1 -IC:\\msys64\\clang64\\lib\\clang\\16\\include -IC:\\msys64\\clang64\\include -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\ALBERTO\\Desktop\\EEDD\\Sesion3\\Colas\\main.cpp",
+  "directory": "C:\\Users\\ALBERTO\\Desktop\\EEDD\\Sesion3\\Colas",
+  "command": "C:/msys64/clang64/bin/g++.exe -c C:\\Users\\ALBERTO\\Desktop\\EEDD\\Sesion3\\Colas\\main.cpp -o C:\\Users\\ALBERTO\\Desktop\\EEDD\\Sesion3\\Colas\\main.cpp.o -target x86_64-w64-windows-gnu -IC:\\msys64\\clang64\\include\\c++\\v1 -IC:\\msys64\\clang64\\lib\\clang\\16\\include -IC:\\msys64\\clang64\\include -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\ALBERTO\\Desktop\\EEDD\\Sesion3\\Colas\\NodoCola.cpp",
+  "directory": "C:\\Users\\ALBERTO\\Desktop\\EEDD\\Sesion3\\Colas",
+  "command": "C:/msys64/clang64/bin/g++.exe -c C:\\Users\\ALBERTO\\Desktop\\EEDD\\Sesion3\\Colas\\NodoCola.cpp -o C:\\Users\\ALBERTO\\Desktop\\EEDD\\Sesion3\\Colas\\NodoCola.cpp.o -target x86_64-w64-windows-gnu -IC:\\msys64\\clang64\\include\\c++\\v1 -IC:\\msys64\\clang64\\lib\\clang\\16\\include -IC:\\msys64\\clang64\\include -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\ALBERTO\\Desktop\\EEDD\\Sesion3\\Colas\\Cola.hpp",
+  "directory": "C:\\Users\\ALBERTO\\Desktop\\EEDD\\Sesion3\\Colas",
+  "command": "C:/msys64/clang64/bin/g++.exe -c C:\\Users\\ALBERTO\\Desktop\\EEDD\\Sesion3\\Colas\\Cola.hpp -o C:\\Users\\ALBERTO\\Desktop\\EEDD\\Sesion3\\Colas\\Cola.hpp.o -target x86_64-w64-windows-gnu -IC:\\msys64\\clang64\\include\\c++\\v1 -IC:\\msys64\\clang64\\lib\\clang\\16\\include -IC:\\msys64\\clang64\\include -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\ALBERTO\\Desktop\\EEDD\\Sesion3\\Colas\\Cola.cpp",
+  "directory": "C:\\Users\\ALBERTO\\Desktop\\EEDD\\Sesion3\\Colas",
+  "command": "C:/msys64/clang64/bin/g++.exe -c C:\\Users\\ALBERTO\\Desktop\\EEDD\\Sesion3\\Colas\\Cola.cpp -o C:\\Users\\ALBERTO\\Desktop\\EEDD\\Sesion3\\Colas\\Cola.cpp.o -target x86_64-w64-windows-gnu -IC:\\msys64\\clang64\\include\\c++\\v1 -IC:\\msys64\\clang64\\lib\\clang\\16\\include -IC:\\msys64\\clang64\\include -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\ALBERTO\\Desktop\\EEDD\\Sesion3\\Pilas\\NodoPila.hpp",
+  "directory": "C:\\Users\\ALBERTO\\Desktop\\EEDD\\Sesion3\\Pilas",
+  "command": "C:/msys64/clang64/bin/g++.exe -c C:\\Users\\ALBERTO\\Desktop\\EEDD\\Sesion3\\Pilas\\NodoPila.hpp -o C:\\Users\\ALBERTO\\Desktop\\EEDD\\Sesion3\\Pilas\\NodoPila.hpp.o -target x86_64-w64-windows-gnu -IC:\\msys64\\clang64\\include\\c++\\v1 -IC:\\msys64\\clang64\\lib\\clang\\16\\include -IC:\\msys64\\clang64\\include -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\ALBERTO\\Desktop\\EEDD\\Sesion3\\Pilas\\main.cpp",
+  "directory": "C:\\Users\\ALBERTO\\Desktop\\EEDD\\Sesion3\\Pilas",
+  "command": "C:/msys64/clang64/bin/g++.exe -c C:\\Users\\ALBERTO\\Desktop\\EEDD\\Sesion3\\Pilas\\main.cpp -o C:\\Users\\ALBERTO\\Desktop\\EEDD\\Sesion3\\Pilas\\main.cpp.o -target x86_64-w64-windows-gnu -IC:\\msys64\\clang64\\include\\c++\\v1 -IC:\\msys64\\clang64\\lib\\clang\\16\\include -IC:\\msys64\\clang64\\include -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\ALBERTO\\Desktop\\EEDD\\Sesion3\\Pilas\\Pila.hpp",
+  "directory": "C:\\Users\\ALBERTO\\Desktop\\EEDD\\Sesion3\\Pilas",
+  "command": "C:/msys64/clang64/bin/g++.exe -c C:\\Users\\ALBERTO\\Desktop\\EEDD\\Sesion3\\Pilas\\Pila.hpp -o C:\\Users\\ALBERTO\\Desktop\\EEDD\\Sesion3\\Pilas\\Pila.hpp.o -target x86_64-w64-windows-gnu -IC:\\msys64\\clang64\\include\\c++\\v1 -IC:\\msys64\\clang64\\lib\\clang\\16\\include -IC:\\msys64\\clang64\\include -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\ALBERTO\\Desktop\\EEDD\\Sesion3\\Pilas\\NodoPila.cpp",
+  "directory": "C:\\Users\\ALBERTO\\Desktop\\EEDD\\Sesion3\\Pilas",
+  "command": "C:/msys64/clang64/bin/g++.exe -c C:\\Users\\ALBERTO\\Desktop\\EEDD\\Sesion3\\Pilas\\NodoPila.cpp -o C:\\Users\\ALBERTO\\Desktop\\EEDD\\Sesion3\\Pilas\\NodoPila.cpp.o -target x86_64-w64-windows-gnu -IC:\\msys64\\clang64\\include\\c++\\v1 -IC:\\msys64\\clang64\\lib\\clang\\16\\include -IC:\\msys64\\clang64\\include -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\ALBERTO\\Desktop\\EEDD\\Sesion3\\Pilas\\Pila.cpp",
+  "directory": "C:\\Users\\ALBERTO\\Desktop\\EEDD\\Sesion3\\Pilas",
+  "command": "C:/msys64/clang64/bin/g++.exe -c C:\\Users\\ALBERTO\\Desktop\\EEDD\\Sesion3\\Pilas\\Pila.cpp -o C:\\Users\\ALBERTO\\Desktop\\EEDD\\Sesion3\\Pilas\\Pila.cpp.o -target x86_64-w64-windows-gnu -IC:\\msys64\\clang64\\include\\c++\\v1 -IC:\\msys64\\clang64\\lib\\clang\\16\\include -IC:\\msys64\\clang64\\include -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\ALBERTO\\Desktop\\EEDD\\Sesion3\\Ejemplo13\\src\\Header Files\\Persona.hpp",
+  "directory": "C:\\Users\\ALBERTO\\Desktop\\EEDD\\Sesion3\\Ejemplo13",
+  "command": "C:/msys64/clang64/bin/g++.exe -c \"C:\\Users\\ALBERTO\\Desktop\\EEDD\\Sesion3\\Ejemplo13\\src\\Header Files\\Persona.hpp\" -o \"C:\\Users\\ALBERTO\\Desktop\\EEDD\\Sesion3\\Ejemplo13\\src\\Header Files\\Persona.hpp\".o -target x86_64-w64-windows-gnu -IC:\\msys64\\clang64\\include\\c++\\v1 -IC:\\msys64\\clang64\\lib\\clang\\16\\include -IC:\\msys64\\clang64\\include -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\ALBERTO\\Desktop\\EEDD\\Sesion3\\Ejemplo13\\src\\Source Files\\Persona.cpp",
+  "directory": "C:\\Users\\ALBERTO\\Desktop\\EEDD\\Sesion3\\Ejemplo13",
+  "command": "C:/msys64/clang64/bin/g++.exe -c \"C:\\Users\\ALBERTO\\Desktop\\EEDD\\Sesion3\\Ejemplo13\\src\\Source Files\\Persona.cpp\" -o \"C:\\Users\\ALBERTO\\Desktop\\EEDD\\Sesion3\\Ejemplo13\\src\\Source Files\\Persona.cpp\".o -target x86_64-w64-windows-gnu -IC:\\msys64\\clang64\\include\\c++\\v1 -IC:\\msys64\\clang64\\lib\\clang\\16\\include -IC:\\msys64\\clang64\\include -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\ALBERTO\\Desktop\\EEDD\\Sesion3\\Ejemplo13\\main.cpp",
+  "directory": "C:\\Users\\ALBERTO\\Desktop\\EEDD\\Sesion3\\Ejemplo13",
+  "command": "C:/msys64/clang64/bin/g++.exe -c C:\\Users\\ALBERTO\\Desktop\\EEDD\\Sesion3\\Ejemplo13\\main.cpp -o C:\\Users\\ALBERTO\\Desktop\\EEDD\\Sesion3\\Ejemplo13\\main.cpp.o -target x86_64-w64-windows-gnu -IC:\\msys64\\clang64\\include\\c++\\v1 -IC:\\msys64\\clang64\\lib\\clang\\16\\include -IC:\\msys64\\clang64\\include -I. -I.  -gdwarf-2  -O0  -Wall"
+ }]
